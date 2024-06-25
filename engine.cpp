@@ -3,5 +3,7 @@ using namespace std;
 
 int main()
 {
-   return 0;
+    int x=8;
+    x+=8;
+   return x;
 }
